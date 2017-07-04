@@ -1,2 +1,2 @@
-# LyricsMaker
-制作lrc滚动歌词文件的WPF工程
+# GreedySnake
+大二数据结构的一次大作业，贪吃蛇
